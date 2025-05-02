@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "293321706733",
+    "firebase_url": "https://social-app-264f6-default-rtdb.firebaseio.com",
+    "project_id": "social-app-264f6",
+    "storage_bucket": "social-app-264f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293321706733:android:edfcc0a2caa6a8e75150e4",
+        "android_client_info": {
+          "package_name": "com.example.bank_sampah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgymSohtzeRhio8j5MvSWP4d91okrl8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293321706733:android:94f7554f32913e155150e4",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgymSohtzeRhio8j5MvSWP4d91okrl8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293321706733:android:5b2a053ab3c4d3795150e4",
+        "android_client_info": {
+          "package_name": "com.example.sosial_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgymSohtzeRhio8j5MvSWP4d91okrl8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
